@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pythagoras</string>
+    <string name="pythagoras_s_theorem_calculator">Pythagoras\' Theorem Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_side_a">Enter side a:</string>
+    <string name="enter_side_b">Enter side b:</string>
+    <string name="side_c">Side c:</string>
+</resources>
